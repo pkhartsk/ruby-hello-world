@@ -10,3 +10,7 @@ gem 'webrick', '1.7.0'
 gem 'ostruct', '0.6.3'
 gem 'base64', '0.3.0'
 gem 'logger', '1.7.0'
+gem 'mutex_m', '0.3.0'
+gem 'bigdecimal', '4.0.1'
+gem 'benchmark', '0.5.0'
+
